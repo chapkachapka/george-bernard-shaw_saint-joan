@@ -124,6 +124,11 @@ p span.i1{
 	text-indent: -1em;
 }
 
+/* Era */
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 /* Footer */
 footer{
 	margin-top: 1em;
