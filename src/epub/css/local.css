@@ -143,11 +143,10 @@ footer{
 	text-align: right;
 }
 
-/* Shaw preface headers */
+/* Preface headers */
 [epub|type~="preface"] header{
 	break-after: avoid;
 	font-variant: small-caps;
-	margin-bottom: 1em;
-	margin-top: 3em;
+	margin: 1em;
 	text-align: center;
 }
